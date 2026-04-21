@@ -2,9 +2,8 @@
 
 **Translator | NLP Engineer | Computational Linguist**
 
-I am particularly interested in machine translation in low-resource settings.
-
-Currently doing my Master's in Language Analysis and Processing at UPV/EHU (San Sebastián).
+Currently pursuing a Master’s degree in Natural Language Analysis and Processing (NLP) at UPV/EHU (San Sebastián). 
+Passionate about language and technologies, with a specific interest in NLP applications within Machine Translation in low-resource settings.
 
 ---
 
