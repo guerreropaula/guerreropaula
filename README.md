@@ -40,8 +40,21 @@ Passionate about language and technologies, with a specific interest in NLP appl
 
 ### Main projects
 
+### [`dialectal-es-va-RL`](https://github.com/guerreropaula/Reinforcement-Learning-ES-VA-TranslateGemma) · *Feb 2026 – present*
+Fine-tuned `TranslateGemma-4B` using Supervised Fine-Tuning (SFT) and Reinforcement Learning (GRPO) to improve translation quality for the low-resource Valencian dialect.
 
----
+### [`paracrawl/keops`](https://github.com/paracrawl/keops) · *Feb 2025*
+**MaCoCu Corpus Validation (Keops Platform)** — ★ 15 · 🍴 5
+Alignment and quality assurance of bilingual corpora. Guideline refinement.
+
+### [`clinical-simplification`](https://github.com/pguerrero-igutierrez/clinical-simplification) · *Feb 2026*
+**Clinical Text Simplification with Fine-Tuned LLMs (Qwen & Llama)**
+
+Fine-tuned `Qwen3.5-0.8B` and `Llama-3.2-1B` with LoRA on the CLARA-MeD clinical corpus for automatic medical text simplification in Spanish.
+
+### [`informal-MT-shared-task/informal-MT`](https://github.com/informal-MT-shared-task/informal-MT)
+**Informal Language Machine Translation Shared Task**
+RAG-based and few-shot approaches for machine translation of colloquial Instagram direct messages from Spanish into Basque.
 
 ### Connect
 
