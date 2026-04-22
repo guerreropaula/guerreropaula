@@ -1,6 +1,6 @@
 ## Paula Guerrero
 
-🌐 [Personal website](https://guerreropaula.github.io)
+[Personal website](https://guerreropaula.github.io)
 
 **Translator | NLP Engineer | Computational Linguist**
 
