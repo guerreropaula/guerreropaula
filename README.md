@@ -35,6 +35,12 @@ Passionate about language and technologies, with a specific interest in NLP appl
 - **Programming:** Python, Unix/Bash
 - **Languages:** Spanish & Valencian (native), English & French (C1/C2), Chinese (B1), German (A2)
 
+
+---
+
+### Main projects
+
+
 ---
 
 ### Connect
