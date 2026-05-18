@@ -11,7 +11,12 @@ Passionate about language and technologies, with a specific interest in NLP appl
 
 ### Experience
 
-- **NLP Intern at Prompsit Language Engineering** | *Elche, Spain*
+- **NLP Intern at 1MillionBot** | *Alicante, Spain* (2026)
+  - Training and configuration of conversational AI models for customer service applications.
+  - RAG conversational systems.
+    
+
+- **NLP Intern at Prompsit Language Engineering** | *Elche, Spain* (2025)
   - Corpus validation and annotation for the MaCoCu project (EU-funded, underresourced languages)
   - MT system training
   - Identification and categorization of errors in multilingual corpora.
